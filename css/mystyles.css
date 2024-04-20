@@ -1,0 +1,36 @@
+/* Font color */
+body {
+    color: #333; /* Dark grey */
+}
+
+/* Font family */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Div styles */
+.div1 {
+    background-color: #f0f0f0; /* Light grey */
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.div2 {
+    background-color: #ffd700; /* Gold */
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.div3 {
+    background-color: #90ee90; /* Light green */
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+/* Body background */
+body {
+    background-image: url('assets/img/white.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
